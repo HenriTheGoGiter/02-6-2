@@ -1,2 +1,2 @@
-# 02-6-2
+# 02-6-2.md
 Frontend-Neljas-tund.
